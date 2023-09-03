@@ -1,0 +1,5 @@
+- Read Chapter I
+- Read FastAI paper
+- Read Lockharts Lament (Optional)
+- Build a similar application on your own
+- Build a generic categorizer (Optional)

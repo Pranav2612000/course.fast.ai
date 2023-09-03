@@ -1,0 +1,7 @@
+Main: https://course.fast.ai/Lessons/lesson1.html
+Summary: https://course.fast.ai/Lessons/Summaries/lesson1.html
+Chapter 1: https://github.com/fastai/fastbook/blob/master/01_intro.ipynb
+
+FastAI paper: https://www.fast.ai/posts/2020-02-13-fastai-A-Layered-API-for-Deep-Learning.html
+Forum SGD and Neural Nets: https://forums.fast.ai/t/beginner-sgd-and-neural-net-foundations/96286/2
+Is it a bird ntbk: https://www.kaggle.com/code/jhoward/is-it-a-bird-creating-a-model-from-your-own-data
