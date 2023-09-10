@@ -1,0 +1,8 @@
+- Read Chapter II [x]
+- Gradio + HF Blog [x] 
+- Run Bear Detector Workbook [x]
+- Improve Happy/Sad Detector using new strategy [x]
+- Deploy Happy/Sad Detector [x]
+- Update generic categorizer with new stragety []
+- GH Deploy Generic Detector for a use-case []
+- Blog on Generic Categorizer ( Optional ) []
