@@ -1,0 +1,6 @@
+Main: https://course.fast.ai/Lessons/lesson2.html
+Summary: https://course.fast.ai/Lessons/Summaries/lesson2.html
+Chapter 2: https://github.com/fastai/fastbook/blob/master/02_production.ipynb
+
+HF Spaces Blog: https://www.tanishq.ai/blog/gradio_hf_spaces_tutorial
+Deployed Laugh/Cry Detector: https://pranav2612000.github.io/course.fast.ai/lesson2/laugh_or_cry/index.html

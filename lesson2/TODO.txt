@@ -3,6 +3,6 @@
 - Run Bear Detector Workbook [x]
 - Improve Happy/Sad Detector using new strategy [x]
 - Deploy Happy/Sad Detector [x]
-- Update generic categorizer with new stragety []
+- Update generic categorizer with new stragety [x]
 - GH Deploy Generic Detector for a use-case []
 - Blog on Generic Categorizer ( Optional ) []
