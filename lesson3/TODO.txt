@@ -1,0 +1,12 @@
+- Read Chapter 3 [x]
+- Read Chapter 4 [x]
+- Make generic detector better []
+  Use better model & other techniques used in Pet Breed Detector
+- Read Which Image models are best [x]
+- Read How does a neural net work [x]
+- Try out Titanic exercise on spreadsheet []
+- Code follow on to understand neural networks []
+- Submit to the Titanic Competition []
+- Update Generic Classifier to allow choosing model []
+- Create custom implementation of Learner []
+- Complete Chapter 4 steps for all digits []
