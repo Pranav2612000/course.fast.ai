@@ -4,8 +4,8 @@
   Use better model & other techniques used in Pet Breed Detector
 - Read Which Image models are best [x]
 - Read How does a neural net work [x]
-- Try out Titanic exercise on spreadsheet []
-- Code follow on to understand neural networks []
+- Try out Titanic exercise on spreadsheet [x]
+- Code follow on to understand neural networks [x]
 - Submit to the Titanic Competition []
 - Update Generic Classifier to allow choosing model []
 - Create custom implementation of Learner []
