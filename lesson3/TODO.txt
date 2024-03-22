@@ -7,6 +7,6 @@
 - Make generic detector better [x]
   Use better model & other techniques used in Pet Breed Detector
   Update Generic Classifier to allow choosing model
+- Create custom implementation of Learner [x]
+- Complete Chapter 4 steps for all digits [x]
 - Submit to the Titanic Competition []
-- Create custom implementation of Learner []
-- Complete Chapter 4 steps for all digits []
