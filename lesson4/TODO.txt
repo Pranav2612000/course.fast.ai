@@ -1,4 +1,9 @@
 - Run 'Getting started with NLP for absolute beginners' []
-- Read chapter 10 of the book
-- Solve chapter 10 questions
+- Read chapter 8 of the book []
+- Solve chapter 8 questions []
+- Read chapter 9 of the book []
+- Solve chapter 9 questions []
+- Read chapter 10 of the book [x]
+- Solve chapter 10 questions [x]
 - Read ULMFit paper
+- Read Seq2Seq translation tutorial

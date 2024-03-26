@@ -1,2 +1,6 @@
 - https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners
 - https://arxiv.org/pdf/1801.06146.pdf [ULMFit paper]
+- https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+- https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
+- https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+- seq2seq paper: https://arxiv.org/abs/1409.3215
