@@ -1,0 +1,2 @@
+- https://www.kaggle.com/code/jhoward/getting-started-with-nlp-for-absolute-beginners
+- https://arxiv.org/pdf/1801.06146.pdf [ULMFit paper]
