@@ -1,0 +1,3 @@
+- Run 'Getting started with NLP for absolute beginners' []
+- Read chapter 10 of the book
+- Solve chapter 10 questions
