@@ -1,0 +1,3 @@
+- Numpy Broadcasting [x]
+- Watch lesson5 [x]
+- Run linear model and neural network lecture ntbk [x]
